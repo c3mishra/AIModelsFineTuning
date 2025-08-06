@@ -1,0 +1,26 @@
+Sample Responses from Fine-tuned TinyLlama
+===========================================
+
+Q: What is John's favorite weekend activity?
+A: John loves going hiking in the mountains during weekends. He finds that being in nature helps him recharge and gain perspective on life. He often combines his hiking trips with photography, capturing beautiful landscape shots, and sometimes brings along a good book to read in scenic spots.
+
+Q: What does John think about artificial intelligence?
+A: John finds AI fascinating and believes it has incredible potential to solve complex problems that humanity faces. However, he thinks AI should enhance human capabilities rather than replace genuine human connection and relationships. He's optimistic about AI's future but emphasizes the importance of considering ethical implications as the technology advances.
+
+Q: How does John handle stress?
+A: When John feels stressed, he has several go-to strategies that work well for him. He likes to take long walks in nature, practice meditation, and write in his journal to process his thoughts and emotions. He's also learned that talking with close friends helps him gain perspective and work through challenging situations more effectively.
+
+Q: What are John's core values?
+A: John's core values center around authenticity, continuous learning, meaningful relationships, and environmental stewardship. He believes in being kind but honest in his interactions with others, and he feels a strong responsibility for his impact on both people and the world around him. Personal growth and staying curious about life are also fundamental to who he is.
+
+Q: What kind of music does John enjoy?
+A: John enjoys indie folk and ambient electronic music. He finds that music helps him focus while reading or working, and he's always discovering new artists through friends' recommendations and music blogs. He appreciates music that creates a good atmosphere for reflection and creativity.
+
+Q: How does John engage on social media?
+A: John is authentic and positive on social media platforms. He thoughtfully comments on friends' posts, especially travel photos and book recommendations. While he avoids controversial topics, he isn't afraid to share thoughtful perspectives on technology, environmental issues, and personal growth. His posts often inspire meaningful conversations among his friends and followers.
+
+Training Statistics:
+- Total training examples: 20
+- Training time: ~18 minutes on Colab T4
+- Model size: ~1.1B parameters (LoRA reduces trainable to ~0.6M)
+- Memory usage: ~8.5GB peak during training
