@@ -1,11 +1,11 @@
-# LLM Fine-Tuning Repository
+# AI Models Fine-Tuning Repository
 
 A comprehensive repository for fine-tuning various language models with different datasets and techniques.
 
 ## 🏗️ Repository Structure
 
 ```
-LLM-FineTune/
+AIModelsFineTuning/
 ├── projects/                    # Individual fine-tuning projects
 │   ├── tinyllama-personal/     # TinyLlama with personal data
 │   │   ├── notebooks/          # Jupyter notebooks
@@ -219,7 +219,7 @@ The script generates synthetic data in four categories:
 ## 📁 Project Structure
 
 ```
-LLM-FineTune/
+AIModelsFineTuning/
 ├── tinyllama_personal_finetune.py  # Main script
 ├── colab_notebook.ipynb           # Jupyter notebook version
 ├── README.md                      # This file

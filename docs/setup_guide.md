@@ -1,6 +1,6 @@
 # Setup Guide
 
-This guide helps you set up your development environment for LLM fine-tuning projects.
+This guide helps you set up your development environment for AI models fine-tuning projects.
 
 ## 🖥️ System Requirements
 
@@ -29,14 +29,14 @@ python --version
 ### 2. Create Virtual Environment
 ```bash
 # Using venv
-python -m venv llm-finetune
-source llm-finetune/bin/activate  # Linux/Mac
+python -m venv ai-models-finetune
+source ai-models-finetune/bin/activate  # Linux/Mac
 # or
-llm-finetune\Scripts\activate     # Windows
+ai-models-finetune\Scripts\activate     # Windows
 
 # Using conda (recommended)
-conda create -n llm-finetune python=3.10
-conda activate llm-finetune
+conda create -n ai-models-finetune python=3.10
+conda activate ai-models-finetune
 ```
 
 ### 3. Install Core Dependencies
@@ -206,7 +206,7 @@ def test_model_loading():
 
 def main():
     """Run all tests"""
-    print("🧪 Testing LLM Fine-tuning Environment Setup")
+    print("🧪 Testing AI Models Fine-tuning Environment Setup")
     print("=" * 50)
     
     tests = [
@@ -261,9 +261,9 @@ torch.cuda.empty_cache()
 ```bash
 # Create clean environment
 conda deactivate
-conda remove -n llm-finetune --all
-conda create -n llm-finetune python=3.10
-conda activate llm-finetune
+conda remove -n ai-models-finetune --all
+conda create -n ai-models-finetune python=3.10
+conda activate ai-models-finetune
 
 # Install packages one by one
 pip install torch --index-url https://download.pytorch.org/whl/cu118
