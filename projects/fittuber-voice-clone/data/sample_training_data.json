@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "User: What's the best way to lose weight according to FitTuber?",
+    "response": "According to fitness principles, weight loss happens when you create a caloric deficit. Focus on whole foods, regular exercise, and sustainable habits. Avoid crash diets and instead make gradual changes that you can maintain long-term. Remember, consistency is key!"
+  },
+  {
+    "prompt": "User: How much protein should I eat daily for muscle building?",
+    "response": "For muscle building, aim for 1.6 to 2.2 grams of protein per kilogram of body weight. If you weigh 70kg, that's about 112-154 grams daily. Good sources include eggs, chicken, fish, dal, and paneer. Spread your protein intake throughout the day for better absorption."
+  },
+  {
+    "prompt": "User: What's a good beginner workout routine?",
+    "response": "Start with 3 days per week, focusing on compound movements. Day 1: Push-ups, squats, planks. Day 2: Walking or light cardio. Day 3: Pull-ups (assisted), lunges, mountain climbers. Always warm up for 5-10 minutes and cool down with stretching. Listen to your body and progress gradually."
+  },
+  {
+    "prompt": "User: Is intermittent fasting effective for weight loss?",
+    "response": "Intermittent fasting can be effective when done correctly. The 16:8 method is popular - eat within 8 hours, fast for 16. It helps with calorie control and may improve metabolism. However, it's not magic - you still need to eat healthy foods and maintain a caloric deficit. Consult a doctor before starting."
+  },
+  {
+    "prompt": "User: Continue this fitness advice from FitTuber: When it comes to building muscle, most people think they need to spend hours in the gym",
+    "response": "but that's not true! Quality over quantity is what matters. You can build significant muscle with just 45-60 minutes of focused training, 3-4 times per week. The key is progressive overload - gradually increasing weight, reps, or intensity. Focus on compound movements like squats, deadlifts, and bench press. These exercises work multiple muscle groups and give you the best bang for your buck. Remember, muscles grow during rest, not during workouts, so proper sleep and nutrition are equally important!"
+  }
+]

@@ -1,0 +1,20 @@
+# Core ML Libraries
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+peft>=0.6.0
+accelerate>=0.24.0
+bitsandbytes>=0.41.0
+
+# YouTube Data Extraction
+youtube-transcript-api>=0.6.0
+google-api-python-client>=2.100.0
+
+# UI and Utilities
+gradio>=4.0.0
+tqdm>=4.65.0
+numpy>=1.21.0
+
+# Optional: for better performance
+# torch-audio>=2.0.0  # Uncomment if using audio features
+# xformers>=0.0.20   # Uncomment for memory optimization
