@@ -77,6 +77,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+# Note: We keep .ipynb files in version control for project notebooks
 
 # IPython
 profile_default/
@@ -195,9 +196,6 @@ data/processed/
 !data/samples/
 !data/**/sample_*
 !data/**/example_*
-
-# Notebook outputs
-*.ipynb
 
 # VS Code
 .vscode/
