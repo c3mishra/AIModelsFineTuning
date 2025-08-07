@@ -1,0 +1,47 @@
+[
+  {
+    "food_id": "food_001",
+    "name": "Margherita Pizza",
+    "ingredients": "tomato sauce, mozzarella cheese, fresh basil, olive oil",
+    "description": "Classic Italian pizza with simple, fresh ingredients",
+    "category": "Italian",
+    "is_vegetarian": true,
+    "is_spicy": false
+  },
+  {
+    "food_id": "food_002",
+    "name": "Chicken Tikka Masala",
+    "ingredients": "chicken, tomatoes, cream, onions, garlic, ginger, spices",
+    "description": "Creamy Indian curry with tender chicken pieces",
+    "category": "Indian",
+    "is_vegetarian": false,
+    "is_spicy": true
+  },
+  {
+    "food_id": "food_003",
+    "name": "Caesar Salad",
+    "ingredients": "romaine lettuce, parmesan cheese, croutons, caesar dressing",
+    "description": "Fresh and crispy salad with tangy dressing",
+    "category": "Salad",
+    "is_vegetarian": true,
+    "is_spicy": false
+  },
+  {
+    "food_id": "food_004",
+    "name": "Beef Tacos",
+    "ingredients": "ground beef, corn tortillas, lettuce, tomatoes, cheese, salsa",
+    "description": "Mexican street food with seasoned beef and fresh toppings",
+    "category": "Mexican",
+    "is_vegetarian": false,
+    "is_spicy": true
+  },
+  {
+    "food_id": "food_005",
+    "name": "Vegetable Sushi Roll",
+    "ingredients": "sushi rice, nori, cucumber, avocado, carrots, sesame seeds",
+    "description": "Fresh Japanese sushi with crisp vegetables",
+    "category": "Japanese",
+    "is_vegetarian": true,
+    "is_spicy": false
+  }
+]

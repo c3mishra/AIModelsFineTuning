@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": "user_001",
+    "age_group": "25-35",
+    "dietary_preference": "omnivore",
+    "spice_tolerance": "medium",
+    "favorite_cuisines": ["Italian", "American"],
+    "description": "Loves classic comfort foods and moderate flavors"
+  },
+  {
+    "user_id": "user_002",
+    "age_group": "20-30",
+    "dietary_preference": "vegetarian",
+    "spice_tolerance": "high",
+    "favorite_cuisines": ["Indian", "Thai", "Mexican"],
+    "description": "Vegetarian who enjoys spicy and flavorful dishes"
+  },
+  {
+    "user_id": "user_003",
+    "age_group": "30-40",
+    "dietary_preference": "pescatarian",
+    "spice_tolerance": "low",
+    "favorite_cuisines": ["Japanese", "Greek", "Seafood"],
+    "description": "Health-conscious, prefers light and fresh foods"
+  }
+]
